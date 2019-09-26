@@ -1,0 +1,17 @@
+{
+    "webhookUrl": "http://localhost:3030",
+    "areas": [{
+        "name": "downtown",
+        "latitude": 36.1530265,
+        "longitude": -95.9909348
+    },{
+        "name": "berryhill",
+        "latitude": 36.115375,
+        "longitude": -96.065078
+    },{
+        "name": "tulsa-north",
+        "latitude": 36.163553,
+        "longitude": -95.940333
+    }],
+    "distanceFromPoints": 5000
+}

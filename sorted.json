@@ -1,0 +1,3817 @@
+[{
+	"pokemon_id": 1,
+	"cp": 1011,
+	"weight": 15.38959217071533,
+	"size": 1.00059390068054,
+	"move_1": 221,
+	"move_2": 118,
+	"form": 163
+}, {
+	"pokemon_id": 2,
+	"cp": 1515,
+	"weight": 22.67475128173828,
+	"size": 1.26118397712708,
+	"move_1": 215,
+	"move_2": 118,
+	"form": 166
+}, {
+	"pokemon_id": 3,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 4,
+	"cp": 897,
+	"weight": 17.05265426635742,
+	"size": 0.86313903331757,
+	"move_1": 220,
+	"move_2": 102,
+	"form": 172
+}, {
+	"pokemon_id": 5,
+	"cp": 1383,
+	"weight": 33.04055404663086,
+	"size": 1.45668900012970,
+	"move_1": 209,
+	"move_2": 115,
+	"form": 175
+}, {
+	"pokemon_id": 6,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 7,
+	"cp": 732,
+	"weight": 15.39393615722656,
+	"size": 0.66228175163269,
+	"move_1": 237,
+	"move_2": 105,
+	"form": 181
+}, {
+	"pokemon_id": 8,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 9,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 10,
+	"cp": 361,
+	"weight": 5.88835382461548,
+	"size": 0.42061835527420,
+	"move_1": 221,
+	"move_2": 133,
+	"form": 0
+}, {
+	"pokemon_id": 11,
+	"cp": 330,
+	"weight": 16.79713821411133,
+	"size": 0.87957471609116,
+	"move_1": 221,
+	"move_2": 133,
+	"form": 0
+}, {
+	"pokemon_id": 12,
+	"cp": 1398,
+	"weight": 44.36753082275391,
+	"size": 1.30820405483246,
+	"move_1": 261,
+	"move_2": 108,
+	"form": 0
+}, {
+	"pokemon_id": 13,
+	"cp": 376,
+	"weight": 13.52117824554443,
+	"size": 0.79176664352417,
+	"move_1": 236,
+	"move_2": 133,
+	"form": 0
+}, {
+	"pokemon_id": 14,
+	"cp": 342,
+	"weight": 14.39688014984131,
+	"size": 0.69934499263763,
+	"move_1": 236,
+	"move_2": 133,
+	"form": 0
+}, {
+	"pokemon_id": 15,
+	"cp": 866,
+	"weight": 29.76371955871582,
+	"size": 0.99886566400528,
+	"move_1": 260,
+	"move_2": 100,
+	"form": 0
+}, {
+	"pokemon_id": 16,
+	"cp": 564,
+	"weight": 3.94770026206970,
+	"size": 0.41730138659477,
+	"move_1": 221,
+	"move_2": 121,
+	"form": 0
+}, {
+	"pokemon_id": 17,
+	"cp": 993,
+	"weight": 51.34758758544922,
+	"size": 1.42200291156769,
+	"move_1": 239,
+	"move_2": 121,
+	"form": 0
+}, {
+	"pokemon_id": 18,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 19,
+	"cp": 667,
+	"weight": 12.16783618927002,
+	"size": 1.88671147823334,
+	"move_1": 225,
+	"move_2": 279,
+	"form": 46
+}, {
+	"pokemon_id": 20,
+	"cp": 1419,
+	"weight": 28.82625961303711,
+	"size": 0.88378447294235,
+	"move_1": 219,
+	"move_2": 129,
+	"form": 47
+}, {
+	"pokemon_id": 21,
+	"cp": 649,
+	"weight": 22.77178573608398,
+	"size": 0.85941338539124,
+	"move_1": 235,
+	"move_2": 257,
+	"form": 0
+}, {
+	"pokemon_id": 22,
+	"cp": 1251,
+	"weight": 45.72636032104492,
+	"size": 1.28151834011078,
+	"move_1": 239,
+	"move_2": 257,
+	"form": 0
+}, {
+	"pokemon_id": 23,
+	"cp": 785,
+	"weight": 13.10496997833252,
+	"size": 2.75978899002075,
+	"move_1": 236,
+	"move_2": 280,
+	"form": 0
+}, {
+	"pokemon_id": 24,
+	"cp": 1136,
+	"weight": 104.45125579833984,
+	"size": 4.65634298324585,
+	"move_1": 253,
+	"move_2": 303,
+	"form": 0
+}, {
+	"pokemon_id": 25,
+	"cp": 730,
+	"weight": 10.51780891418457,
+	"size": 0.52249854803085,
+	"move_1": 219,
+	"move_2": 251,
+	"form": 0
+}, {
+	"pokemon_id": 26,
+	"cp": 1467,
+	"weight": 43.78634262084961,
+	"size": 0.99612331390381,
+	"move_1": 250,
+	"move_2": 251,
+	"form": 49
+}, {
+	"pokemon_id": 27,
+	"cp": 1150,
+	"weight": 17.35669326782227,
+	"size": 0.69831836223602,
+	"move_1": 220,
+	"move_2": 258,
+	"form": 51
+}, {
+	"pokemon_id": 28,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 29,
+	"cp": 657,
+	"weight": 13.83288574218750,
+	"size": 0.53864794969559,
+	"move_1": 236,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 30,
+	"cp": 946,
+	"weight": 24.35349273681641,
+	"size": 0.84898447990417,
+	"move_1": 236,
+	"move_2": 90,
+	"form": 0
+}, {
+	"pokemon_id": 31,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 32,
+	"cp": 698,
+	"weight": 16.25753402709961,
+	"size": 0.67226535081863,
+	"move_1": 236,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 33,
+	"cp": 1021,
+	"weight": 27.09496116638184,
+	"size": 1.05187594890594,
+	"move_1": 236,
+	"move_2": 126,
+	"form": 0
+}, {
+	"pokemon_id": 34,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 35,
+	"cp": 909,
+	"weight": 11.54510402679443,
+	"size": 0.71931481361389,
+	"move_1": 234,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 36,
+	"cp": 882,
+	"weight": 48.02305984497070,
+	"size": 1.39709901809692,
+	"move_1": 234,
+	"move_2": 301,
+	"form": 0
+}, {
+	"pokemon_id": 37,
+	"cp": 817,
+	"weight": 19.98773384094238,
+	"size": 0.84532612562180,
+	"move_1": 221,
+	"move_2": 131,
+	"form": 55
+}, {
+	"pokemon_id": 38,
+	"cp": 720,
+	"weight": 21.81351470947266,
+	"size": 1.13687610626221,
+	"move_1": 269,
+	"move_2": 270,
+	"form": 57
+}, {
+	"pokemon_id": 39,
+	"cp": 570,
+	"weight": 9.13704013824463,
+	"size": 0.66583275794983,
+	"move_1": 238,
+	"move_2": 267,
+	"form": 0
+}, {
+	"pokemon_id": 40,
+	"cp": 655,
+	"weight": 25.37143135070801,
+	"size": 0.80714857578278,
+	"move_1": 209,
+	"move_2": 21,
+	"form": 0
+}, {
+	"pokemon_id": 41,
+	"cp": 553,
+	"weight": 14.30278873443604,
+	"size": 1.11835014820099,
+	"move_1": 219,
+	"move_2": 125,
+	"form": 157
+}, {
+	"pokemon_id": 42,
+	"cp": 937,
+	"weight": 74.15218353271484,
+	"size": 1.84289240837097,
+	"move_1": 210,
+	"move_2": 121,
+	"form": 160
+}, {
+	"pokemon_id": 43,
+	"cp": 1128,
+	"weight": 11.07051944732666,
+	"size": 0.69330894947052,
+	"move_1": 225,
+	"move_2": 90,
+	"form": 265
+}, {
+	"pokemon_id": 44,
+	"cp": 1421,
+	"weight": 13.92328262329102,
+	"size": 1.01222908496857,
+	"move_1": 225,
+	"move_2": 90,
+	"form": 268
+}, {
+	"pokemon_id": 45,
+	"cp": 1662,
+	"weight": 21.12783432006836,
+	"size": 1.21103072166443,
+	"move_1": 215,
+	"move_2": 116,
+	"form": 271
+}, {
+	"pokemon_id": 46,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 47,
+	"cp": 1519,
+	"weight": 47.61868667602539,
+	"size": 1.24298608303070,
+	"move_1": 261,
+	"move_2": 116,
+	"form": 0
+}, {
+	"pokemon_id": 48,
+	"cp": 820,
+	"weight": 58.05876541137695,
+	"size": 1.39165902137756,
+	"move_1": 235,
+	"move_2": 99,
+	"form": 259
+}, {
+	"pokemon_id": 49,
+	"cp": 909,
+	"weight": 19.31132698059082,
+	"size": 1.86299324035645,
+	"move_1": 260,
+	"move_2": 262,
+	"form": 262
+}, {
+	"pokemon_id": 50,
+	"cp": 597,
+	"weight": 1.68895697593689,
+	"size": 0.27219825983047,
+	"move_1": 233,
+	"move_2": 96,
+	"form": 60
+}, {
+	"pokemon_id": 51,
+	"cp": 1212,
+	"weight": 30.09560585021973,
+	"size": 0.64990168809891,
+	"move_1": 233,
+	"move_2": 96,
+	"form": 61
+}, {
+	"pokemon_id": 52,
+	"cp": 681,
+	"weight": 51.49154663085938,
+	"size": 1.40147328376770,
+	"move_1": 230,
+	"move_2": 280,
+	"form": 63
+}, {
+	"pokemon_id": 53,
+	"cp": 1175,
+	"weight": 45.67073059082031,
+	"size": 1.14698231220245,
+	"move_1": 238,
+	"move_2": 280,
+	"form": 65
+}, {
+	"pokemon_id": 54,
+	"cp": 927,
+	"weight": 40.33476257324219,
+	"size": 1.15386605262756,
+	"move_1": 234,
+	"move_2": 58,
+	"form": 286
+}, {
+	"pokemon_id": 55,
+	"cp": 1708,
+	"weight": 149.15568542480470,
+	"size": 2.22591090202332,
+	"move_1": 235,
+	"move_2": 108,
+	"form": 289
+}, {
+	"pokemon_id": 56,
+	"cp": 952,
+	"weight": 58.59494018554688,
+	"size": 0.69783449172974,
+	"move_1": 220,
+	"move_2": 123,
+	"form": 0
+}, {
+	"pokemon_id": 57,
+	"cp": 736,
+	"weight": 32.49310302734375,
+	"size": 1.15197575092316,
+	"move_1": 243,
+	"move_2": 245,
+	"form": 0
+}, {
+	"pokemon_id": 58,
+	"cp": 1141,
+	"weight": 43.46706771850586,
+	"size": 1.04541945457458,
+	"move_1": 237,
+	"move_2": 131,
+	"form": 280
+}, {
+	"pokemon_id": 59,
+	"cp": 2488,
+	"weight": 198.09559631347656,
+	"size": 2.04692840576172,
+	"move_1": 278,
+	"move_2": 279,
+	"form": 283
+}, {
+	"pokemon_id": 60,
+	"cp": 676,
+	"weight": 19.70466613769531,
+	"size": 0.76187998056412,
+	"move_1": 237,
+	"move_2": 131,
+	"form": 235
+}, {
+	"pokemon_id": 61,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 238
+}, {
+	"pokemon_id": 62,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 63,
+	"cp": 1074,
+	"weight": 40.37604141235352,
+	"size": 1.23663759231567,
+	"move_1": 249,
+	"move_2": 99,
+	"form": 304
+}, {
+	"pokemon_id": 64,
+	"cp": 1306,
+	"weight": 111.96150207519531,
+	"size": 1.79933869838715,
+	"move_1": 235,
+	"move_2": 86,
+	"form": 307
+}, {
+	"pokemon_id": 65,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 66,
+	"cp": 1039,
+	"weight": 38.70376205444336,
+	"size": 1.06212103366852,
+	"move_1": 241,
+	"move_2": 123,
+	"form": 0
+}, {
+	"pokemon_id": 67,
+	"cp": 24,
+	"weight": 109.91572570800781,
+	"size": 1.81274306774139,
+	"move_1": 208,
+	"move_2": 246,
+	"form": 0
+}, {
+	"pokemon_id": 68,
+	"cp": 1957,
+	"weight": 116.80586242675781,
+	"size": 1.54365170001984,
+	"move_1": 243,
+	"move_2": 246,
+	"form": 0
+}, {
+	"pokemon_id": 69,
+	"cp": 953,
+	"weight": 7.68816804885864,
+	"size": 0.98860859870911,
+	"move_1": 225,
+	"move_2": 118,
+	"form": 0
+}, {
+	"pokemon_id": 70,
+	"cp": 1349,
+	"weight": 9.39939308166504,
+	"size": 1.17013168334961,
+	"move_1": 271,
+	"move_2": 118,
+	"form": 0
+}, {
+	"pokemon_id": 71,
+	"cp": 1216,
+	"weight": 11.55385398864746,
+	"size": 1.43136823177338,
+	"move_1": 215,
+	"move_2": 303,
+	"form": 0
+}, {
+	"pokemon_id": 72,
+	"cp": 791,
+	"weight": 87.62254333496094,
+	"size": 1.19034922122955,
+	"move_1": 237,
+	"move_2": 105,
+	"form": 0
+}, {
+	"pokemon_id": 73,
+	"cp": 994,
+	"weight": 71.50756072998047,
+	"size": 1.97553944587708,
+	"move_1": 224,
+	"move_2": 303,
+	"form": 0
+}, {
+	"pokemon_id": 74,
+	"cp": 1118,
+	"weight": 38.66986465454102,
+	"size": 0.53546440601349,
+	"move_1": 250,
+	"move_2": 79,
+	"form": 68
+}, {
+	"pokemon_id": 75,
+	"cp": 1130,
+	"weight": 103.89724731445312,
+	"size": 1.08605015277863,
+	"move_1": 233,
+	"move_2": 259,
+	"form": 69
+}, {
+	"pokemon_id": 76,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 77,
+	"cp": 1541,
+	"weight": 61.49276351928711,
+	"size": 1.41927278041840,
+	"move_1": 221,
+	"move_2": 127,
+	"form": 0
+}, {
+	"pokemon_id": 78,
+	"cp": 2159,
+	"weight": 112.15376281738281,
+	"size": 1.85223853588104,
+	"move_1": 269,
+	"move_2": 103,
+	"form": 0
+}, {
+	"pokemon_id": 79,
+	"cp": 995,
+	"weight": 78.38997650146484,
+	"size": 1.69597959518433,
+	"move_1": 235,
+	"move_2": 108,
+	"form": 0
+}, {
+	"pokemon_id": 80,
+	"cp": 676,
+	"weight": 53.85837936401367,
+	"size": 1.38870596885681,
+	"move_1": 235,
+	"move_2": 108,
+	"form": 0
+}, {
+	"pokemon_id": 81,
+	"cp": 1104,
+	"weight": 10.25666904449463,
+	"size": 0.38075459003448,
+	"move_1": 206,
+	"move_2": 79,
+	"form": 0
+}, {
+	"pokemon_id": 82,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 84,
+	"cp": 983,
+	"weight": 67.61653900146484,
+	"size": 1.86977791786194,
+	"move_1": 219,
+	"move_2": 256,
+	"form": 0
+}, {
+	"pokemon_id": 85,
+	"cp": 489,
+	"weight": 68.11858367919922,
+	"size": 1.79150021076202,
+	"move_1": 239,
+	"move_2": 256,
+	"form": 0
+}, {
+	"pokemon_id": 86,
+	"cp": 681,
+	"weight": 149.88264465332030,
+	"size": 1.47985267639160,
+	"move_1": 217,
+	"move_2": 248,
+	"form": 0
+}, {
+	"pokemon_id": 87,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 88,
+	"cp": 1119,
+	"weight": 59.58286285400391,
+	"size": 1.17971253395081,
+	"move_1": 233,
+	"move_2": 96,
+	"form": 73
+}, {
+	"pokemon_id": 89,
+	"cp": 703,
+	"weight": 22.17113494873047,
+	"size": 1.13059699535370,
+	"move_1": 260,
+	"move_2": 92,
+	"form": 75
+}, {
+	"pokemon_id": 90,
+	"cp": 663,
+	"weight": 6.19410181045532,
+	"size": 0.34049740433693,
+	"move_1": 221,
+	"move_2": 111,
+	"form": 0
+}, {
+	"pokemon_id": 91,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 92,
+	"cp": 963,
+	"weight": 166.85360717773438,
+	"size": 8.03526878356934,
+	"move_1": 263,
+	"move_2": 265,
+	"form": 0
+}, {
+	"pokemon_id": 93,
+	"cp": 583,
+	"weight": 0.16629986464977,
+	"size": 1.93906545639038,
+	"move_1": 263,
+	"move_2": 90,
+	"form": 0
+}, {
+	"pokemon_id": 94,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 95,
+	"cp": 956,
+	"weight": 432.13500976562500,
+	"size": 11.95790100097656,
+	"move_1": 227,
+	"move_2": 268,
+	"form": 0
+}, {
+	"pokemon_id": 96,
+	"cp": 818,
+	"weight": 52.33426666259766,
+	"size": 1.28009963035583,
+	"move_1": 235,
+	"move_2": 108,
+	"form": 214
+}, {
+	"pokemon_id": 97,
+	"cp": 1360,
+	"weight": 64.99625396728516,
+	"size": 1.64314162731171,
+	"move_1": 234,
+	"move_2": 247,
+	"form": 217
+}, {
+	"pokemon_id": 98,
+	"cp": 1258,
+	"weight": 11.29528522491455,
+	"size": 0.49839568138123,
+	"move_1": 237,
+	"move_2": 105,
+	"form": 0
+}, {
+	"pokemon_id": 99,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 100,
+	"cp": 774,
+	"weight": 15.12551689147949,
+	"size": 0.60287767648697,
+	"move_1": 221,
+	"move_2": 267,
+	"form": 0
+}, {
+	"pokemon_id": 101,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 102,
+	"cp": 1673,
+	"weight": 126.33969116210938,
+	"size": 1.49843001365662,
+	"move_1": 271,
+	"move_2": 126,
+	"form": 0
+}, {
+	"pokemon_id": 103,
+	"cp": 2528,
+	"weight": 413.56182861328125,
+	"size": 11.07525157928467,
+	"move_1": 274,
+	"move_2": 116,
+	"form": 78
+}, {
+	"pokemon_id": 104,
+	"cp": 898,
+	"weight": 10.61925315856934,
+	"size": 0.49219912290573,
+	"move_1": 241,
+	"move_2": 95,
+	"form": 224
+}, {
+	"pokemon_id": 105,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 106,
+	"cp": 1668,
+	"weight": 72.60163116455078,
+	"size": 1.73623478412628,
+	"move_1": 241,
+	"move_2": 245,
+	"form": 0
+}, {
+	"pokemon_id": 107,
+	"cp": 1953,
+	"weight": 65.58312988281250,
+	"size": 1.65919840335846,
+	"move_1": 243,
+	"move_2": 319,
+	"form": 277
+}, {
+	"pokemon_id": 108,
+	"cp": 1179,
+	"weight": 115.10314178466797,
+	"size": 1.62183988094330,
+	"move_1": 234,
+	"move_2": 127,
+	"form": 0
+}, {
+	"pokemon_id": 109,
+	"cp": 993,
+	"weight": 1.81597685813904,
+	"size": 0.81217241287231,
+	"move_1": 260,
+	"move_2": 90,
+	"form": 0
+}, {
+	"pokemon_id": 110,
+	"cp": 1468,
+	"weight": 13.24073791503906,
+	"size": 1.39416885375977,
+	"move_1": 260,
+	"move_2": 70,
+	"form": 0
+}, {
+	"pokemon_id": 111,
+	"cp": 1520,
+	"weight": 250.04388427734375,
+	"size": 1.48447191715240,
+	"move_1": 271,
+	"move_2": 127,
+	"form": 0
+}, {
+	"pokemon_id": 112,
+	"cp": 1522,
+	"weight": 97.78449249267578,
+	"size": 1.93123030662537,
+	"move_1": 241,
+	"move_2": 32,
+	"form": 0
+}, {
+	"pokemon_id": 113,
+	"cp": 1042,
+	"weight": 58.36083984375000,
+	"size": 1.40766000747681,
+	"move_1": 234,
+	"move_2": 108,
+	"form": 0
+}, {
+	"pokemon_id": 114,
+	"cp": 1992,
+	"weight": 61.74600982666016,
+	"size": 1.36802482604980,
+	"move_1": 260,
+	"move_2": 272,
+	"form": 0
+}, {
+	"pokemon_id": 116,
+	"cp": 822,
+	"weight": 14.36814212799072,
+	"size": 0.52551639080048,
+	"move_1": 237,
+	"move_2": 82,
+	"form": 0
+}, {
+	"pokemon_id": 117,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 118,
+	"cp": 862,
+	"weight": 25.48342514038086,
+	"size": 0.75762867927551,
+	"move_1": 216,
+	"move_2": 126,
+	"form": 0
+}, {
+	"pokemon_id": 119,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 120,
+	"cp": 910,
+	"weight": 54.66958618164062,
+	"size": 1.02495253086090,
+	"move_1": 230,
+	"move_2": 125,
+	"form": 0
+}, {
+	"pokemon_id": 121,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 123,
+	"cp": 2085,
+	"weight": 94.59290313720703,
+	"size": 1.92990386486053,
+	"move_1": 255,
+	"move_2": 100,
+	"form": 247
+}, {
+	"pokemon_id": 124,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 125,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 126,
+	"cp": 2120,
+	"weight": 78.32954406738281,
+	"size": 1.67011499404907,
+	"move_1": 209,
+	"move_2": 115,
+	"form": 0
+}, {
+	"pokemon_id": 127,
+	"cp": 2470,
+	"weight": 140.12556457519530,
+	"size": 2.02766084671021,
+	"move_1": 241,
+	"move_2": 245,
+	"form": 0
+}, {
+	"pokemon_id": 128,
+	"cp": 2331,
+	"weight": 171.65608215332030,
+	"size": 1.94809520244598,
+	"move_1": 234,
+	"move_2": 126,
+	"form": 0
+}, {
+	"pokemon_id": 129,
+	"cp": 219,
+	"weight": 20.81397247314453,
+	"size": 1.29257011413574,
+	"move_1": 231,
+	"move_2": 133,
+	"form": 253
+}, {
+	"pokemon_id": 130,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 131,
+	"cp": 1329,
+	"weight": 259.84301757812500,
+	"size": 2.67902588844299,
+	"move_1": 230,
+	"move_2": 40,
+	"form": 322
+}, {
+	"pokemon_id": 132,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 133,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 134,
+	"cp": 1795,
+	"weight": 40.87552261352539,
+	"size": 1.11029791831970,
+	"move_1": 230,
+	"move_2": 107,
+	"form": 0
+}, {
+	"pokemon_id": 135,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 136,
+	"cp": 2609,
+	"weight": 17.55979156494141,
+	"size": 0.80282199382782,
+	"move_1": 209,
+	"move_2": 24,
+	"form": 0
+}, {
+	"pokemon_id": 137,
+	"cp": 670,
+	"weight": 39.01054000854492,
+	"size": 0.88969123363495,
+	"move_1": 249,
+	"move_2": 252,
+	"form": 0
+}, {
+	"pokemon_id": 138,
+	"cp": 1203,
+	"weight": 13.30503368377686,
+	"size": 0.52718693017960,
+	"move_1": 230,
+	"move_2": 259,
+	"form": 0
+}, {
+	"pokemon_id": 139,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 140,
+	"cp": 970,
+	"weight": 15.85526752471924,
+	"size": 0.57069444656372,
+	"move_1": 220,
+	"move_2": 63,
+	"form": 0
+}, {
+	"pokemon_id": 141,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 142,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 143,
+	"cp": 2615,
+	"weight": 636.53027343750000,
+	"size": 2.38308787345886,
+	"move_1": 234,
+	"move_2": 302,
+	"form": 199
+}, {
+	"pokemon_id": 147,
+	"cp": 689,
+	"weight": 4.94785833358765,
+	"size": 2.22699880599976,
+	"move_1": 266,
+	"move_2": 80,
+	"form": 190
+}, {
+	"pokemon_id": 148,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 149,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 152,
+	"cp": 865,
+	"weight": 13.85579395294189,
+	"size": 1.27110838890076,
+	"move_1": 221,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 153,
+	"cp": 681,
+	"weight": 22.31327438354492,
+	"size": 1.38416528701782,
+	"move_1": 221,
+	"move_2": 62,
+	"form": 0
+}, {
+	"pokemon_id": 154,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 155,
+	"cp": 884,
+	"weight": 16.37605285644531,
+	"size": 0.72314137220383,
+	"move_1": 221,
+	"move_2": 125,
+	"form": 0
+}, {
+	"pokemon_id": 156,
+	"cp": 697,
+	"weight": 12.05310249328613,
+	"size": 0.76527875661850,
+	"move_1": 221,
+	"move_2": 24,
+	"form": 0
+}, {
+	"pokemon_id": 157,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 158,
+	"cp": 879,
+	"weight": 17.63720512390137,
+	"size": 0.77775669097900,
+	"move_1": 230,
+	"move_2": 279,
+	"form": 0
+}, {
+	"pokemon_id": 159,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 160,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 161,
+	"cp": 552,
+	"weight": 13.85475254058838,
+	"size": 1.18500006198883,
+	"move_1": 231,
+	"move_2": 272,
+	"form": 0
+}, {
+	"pokemon_id": 162,
+	"cp": 1469,
+	"weight": 53.96450805664062,
+	"size": 2.22772336006165,
+	"move_1": 219,
+	"move_2": 123,
+	"form": 0
+}, {
+	"pokemon_id": 163,
+	"cp": 592,
+	"weight": 43.22145843505859,
+	"size": 0.95070111751556,
+	"move_1": 238,
+	"move_2": 265,
+	"form": 0
+}, {
+	"pokemon_id": 164,
+	"cp": 1103,
+	"weight": 49.39628219604492,
+	"size": 1.88147366046906,
+	"move_1": 274,
+	"move_2": 265,
+	"form": 0
+}, {
+	"pokemon_id": 165,
+	"cp": 620,
+	"weight": 20.20524406433105,
+	"size": 1.34255814552307,
+	"move_1": 221,
+	"move_2": 262,
+	"form": 0
+}, {
+	"pokemon_id": 166,
+	"cp": 994,
+	"weight": 58.17290878295898,
+	"size": 1.75876986980438,
+	"move_1": 261,
+	"move_2": 262,
+	"form": 0
+}, {
+	"pokemon_id": 167,
+	"cp": 678,
+	"weight": 17.84439849853516,
+	"size": 0.71690750122070,
+	"move_1": 236,
+	"move_2": 99,
+	"form": 0
+}, {
+	"pokemon_id": 168,
+	"cp": 1250,
+	"weight": 50.73678970336914,
+	"size": 1.39285886287689,
+	"move_1": 260,
+	"move_2": 89,
+	"form": 0
+}, {
+	"pokemon_id": 169,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 170,
+	"cp": 849,
+	"weight": 22.23519325256348,
+	"size": 0.66960465908051,
+	"move_1": 237,
+	"move_2": 105,
+	"form": 0
+}, {
+	"pokemon_id": 171,
+	"cp": 1385,
+	"weight": 28.17524909973145,
+	"size": 1.31101858615875,
+	"move_1": 230,
+	"move_2": 107,
+	"form": 0
+}, {
+	"pokemon_id": 176,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 177,
+	"cp": 945,
+	"weight": 3.91442894935608,
+	"size": 0.27109944820404,
+	"move_1": 219,
+	"move_2": 265,
+	"form": 0
+}, {
+	"pokemon_id": 178,
+	"cp": 1647,
+	"weight": 22.16060638427734,
+	"size": 1.73126471042633,
+	"move_1": 255,
+	"move_2": 275,
+	"form": 0
+}, {
+	"pokemon_id": 179,
+	"cp": 842,
+	"weight": 14.36737537384033,
+	"size": 0.80808460712433,
+	"move_1": 221,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 180,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 181,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 183,
+	"cp": 343,
+	"weight": 13.30763244628906,
+	"size": 0.51734697818756,
+	"move_1": 237,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 184,
+	"cp": 1014,
+	"weight": 38.95926666259766,
+	"size": 0.87295544147491,
+	"move_1": 241,
+	"move_2": 107,
+	"form": 0
+}, {
+	"pokemon_id": 185,
+	"cp": 1894,
+	"weight": 76.26332855224610,
+	"size": 1.64873731136322,
+	"move_1": 243,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 187,
+	"cp": 547,
+	"weight": 0.98562216758728,
+	"size": 0.57286292314529,
+	"move_1": 271,
+	"move_2": 272,
+	"form": 0
+}, {
+	"pokemon_id": 188,
+	"cp": 837,
+	"weight": 1.77903842926025,
+	"size": 0.79761236906052,
+	"move_1": 271,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 189,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 190,
+	"cp": 1182,
+	"weight": 46.02865600585938,
+	"size": 1.10591495037079,
+	"move_1": 263,
+	"move_2": 125,
+	"form": 0
+}, {
+	"pokemon_id": 191,
+	"cp": 361,
+	"weight": 3.99785995483398,
+	"size": 0.42711663246155,
+	"move_1": 223,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 192,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 193,
+	"cp": 1236,
+	"weight": 75.04867553710938,
+	"size": 1.65446805953979,
+	"move_1": 219,
+	"move_2": 272,
+	"form": 0
+}, {
+	"pokemon_id": 194,
+	"cp": 577,
+	"weight": 16.47663879394531,
+	"size": 0.54177641868591,
+	"move_1": 230,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 195,
+	"cp": 1453,
+	"weight": 51.09950637817383,
+	"size": 1.15342915058136,
+	"move_1": 216,
+	"move_2": 31,
+	"form": 0
+}, {
+	"pokemon_id": 196,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 197,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 198,
+	"cp": 1315,
+	"weight": 50.73398208618164,
+	"size": 1.47002625465393,
+	"move_1": 243,
+	"move_2": 280,
+	"form": 0
+}, {
+	"pokemon_id": 199,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 200,
+	"cp": 1632,
+	"weight": 34.66158676147461,
+	"size": 1.02028524875641,
+	"move_1": 264,
+	"move_2": 101,
+	"form": 0
+}, {
+	"pokemon_id": 201,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 202,
+	"cp": 490,
+	"weight": 36.29751205444336,
+	"size": 1.60113608837128,
+	"move_1": 320,
+	"move_2": 276,
+	"form": 0
+}, {
+	"pokemon_id": 203,
+	"cp": 1625,
+	"weight": 76.22760772705078,
+	"size": 2.01451492309570,
+	"move_1": 235,
+	"move_2": 276,
+	"form": 0
+}, {
+	"pokemon_id": 204,
+	"cp": 855,
+	"weight": 12.00711441040039,
+	"size": 0.78614550828934,
+	"move_1": 221,
+	"move_2": 258,
+	"form": 0
+}, {
+	"pokemon_id": 205,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 206,
+	"cp": 1538,
+	"weight": 26.24140930175781,
+	"size": 1.98571574687958,
+	"move_1": 263,
+	"move_2": 64,
+	"form": 0
+}, {
+	"pokemon_id": 207,
+	"cp": 1645,
+	"weight": 108.98162841796875,
+	"size": 1.34341835975647,
+	"move_1": 210,
+	"move_2": 51,
+	"form": 0
+}, {
+	"pokemon_id": 209,
+	"cp": 1015,
+	"weight": 44.02161026000977,
+	"size": 0.85786890983582,
+	"move_1": 221,
+	"move_2": 279,
+	"form": 0
+}, {
+	"pokemon_id": 210,
+	"cp": 1354,
+	"weight": 58.77283859252930,
+	"size": 1.35854494571686,
+	"move_1": 320,
+	"move_2": 245,
+	"form": 0
+}, {
+	"pokemon_id": 211,
+	"cp": 1662,
+	"weight": 6.52382612228394,
+	"size": 0.67294442653656,
+	"move_1": 236,
+	"move_2": 303,
+	"form": 0
+}, {
+	"pokemon_id": 212,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 213,
+	"cp": 386,
+	"weight": 45.02316665649414,
+	"size": 1.10156285762787,
+	"move_1": 261,
+	"move_2": 267,
+	"form": 0
+}, {
+	"pokemon_id": 215,
+	"cp": 569,
+	"weight": 35.86532211303711,
+	"size": 0.97422510385513,
+	"move_1": 217,
+	"move_2": 254,
+	"form": 0
+}, {
+	"pokemon_id": 216,
+	"cp": 1470,
+	"weight": 16.06044960021973,
+	"size": 0.82870829105377,
+	"move_1": 264,
+	"move_2": 279,
+	"form": 0
+}, {
+	"pokemon_id": 217,
+	"cp": 2118,
+	"weight": 180.01785278320312,
+	"size": 2.14661121368408,
+	"move_1": 243,
+	"move_2": 245,
+	"form": 0
+}, {
+	"pokemon_id": 218,
+	"cp": 821,
+	"weight": 79.97781372070312,
+	"size": 1.00377476215363,
+	"move_1": 227,
+	"move_2": 102,
+	"form": 0
+}, {
+	"pokemon_id": 219,
+	"cp": 1474,
+	"weight": 94.92288970947266,
+	"size": 1.00847935676575,
+	"move_1": 227,
+	"move_2": 270,
+	"form": 0
+}, {
+	"pokemon_id": 220,
+	"cp": 627,
+	"weight": 11.53132534027100,
+	"size": 0.53619939088821,
+	"move_1": 244,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 221,
+	"cp": 1278,
+	"weight": 33.08456420898438,
+	"size": 0.95104169845581,
+	"move_1": 244,
+	"move_2": 254,
+	"form": 0
+}, {
+	"pokemon_id": 223,
+	"cp": 673,
+	"weight": 22.57367324829102,
+	"size": 0.79358804225922,
+	"move_1": 230,
+	"move_2": 259,
+	"form": 0
+}, {
+	"pokemon_id": 224,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 226,
+	"cp": 1764,
+	"weight": 356.56161499023440,
+	"size": 2.69778013229370,
+	"move_1": 271,
+	"move_2": 105,
+	"form": 0
+}, {
+	"pokemon_id": 227,
+	"cp": 1727,
+	"weight": 95.47470855712890,
+	"size": 2.20787096023560,
+	"move_1": 255,
+	"move_2": 257,
+	"form": 0
+}, {
+	"pokemon_id": 228,
+	"cp": 1142,
+	"weight": 21.61348724365234,
+	"size": 0.85238999128342,
+	"move_1": 238,
+	"move_2": 279,
+	"form": 229
+}, {
+	"pokemon_id": 229,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 230,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 231,
+	"cp": 1100,
+	"weight": 63.78448486328125,
+	"size": 0.72218018770218,
+	"move_1": 241,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 232,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 233,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 234,
+	"cp": 1765,
+	"weight": 140.85232543945312,
+	"size": 1.89151561260223,
+	"move_1": 234,
+	"move_2": 251,
+	"form": 0
+}, {
+	"pokemon_id": 236,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 237,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 241,
+	"cp": 1324,
+	"weight": 105.08842468261719,
+	"size": 1.38700771331787,
+	"move_1": 221,
+	"move_2": 267,
+	"form": 0
+}, {
+	"pokemon_id": 242,
+	"cp": 1977,
+	"weight": 56.62411499023438,
+	"size": 1.59874343872070,
+	"move_1": 234,
+	"move_2": 108,
+	"form": 0
+}, {
+	"pokemon_id": 246,
+	"cp": 958,
+	"weight": 128.03161621093750,
+	"size": 0.80307996273041,
+	"move_1": 241,
+	"move_2": 279,
+	"form": 313
+}, {
+	"pokemon_id": 247,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 248,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 252,
+	"cp": 973,
+	"weight": 123.44220733642578,
+	"size": 0.79682123661041,
+	"move_1": 271,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 253,
+	"cp": 1231,
+	"weight": 33.42830276489258,
+	"size": 0.98172467947006,
+	"move_1": 219,
+	"move_2": 272,
+	"form": 0
+}, {
+	"pokemon_id": 254,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 255,
+	"cp": 989,
+	"weight": 4.69763088226318,
+	"size": 0.55162382125854,
+	"move_1": 220,
+	"move_2": 101,
+	"form": 0
+}, {
+	"pokemon_id": 256,
+	"cp": 447,
+	"weight": 21.24168586730957,
+	"size": 0.95059847831726,
+	"move_1": 211,
+	"move_2": 64,
+	"form": 0
+}, {
+	"pokemon_id": 257,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 258,
+	"cp": 853,
+	"weight": 11.88008499145508,
+	"size": 0.52721130847931,
+	"move_1": 230,
+	"move_2": 127,
+	"form": 205
+}, {
+	"pokemon_id": 259,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 260,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 261,
+	"cp": 534,
+	"weight": 27.52940750122070,
+	"size": 0.67857044935226,
+	"move_1": 278,
+	"move_2": 279,
+	"form": 0
+}, {
+	"pokemon_id": 262,
+	"cp": 1308,
+	"weight": 45.63243103027344,
+	"size": 1.00166845321655,
+	"move_1": 240,
+	"move_2": 279,
+	"form": 0
+}, {
+	"pokemon_id": 263,
+	"cp": 466,
+	"weight": 38.58816909790039,
+	"size": 0.57392865419388,
+	"move_1": 271,
+	"move_2": 272,
+	"form": 0
+}, {
+	"pokemon_id": 264,
+	"cp": 497,
+	"weight": 38.21558380126953,
+	"size": 0.58561462163925,
+	"move_1": 213,
+	"move_2": 78,
+	"form": 0
+}, {
+	"pokemon_id": 265,
+	"cp": 488,
+	"weight": 13.16127872467041,
+	"size": 0.52587985992432,
+	"move_1": 221,
+	"move_2": 133,
+	"form": 0
+}, {
+	"pokemon_id": 266,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 267,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 268,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 269,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 270,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 271,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 272,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 273,
+	"cp": 551,
+	"weight": 7.90242767333984,
+	"size": 0.72866898775101,
+	"move_1": 271,
+	"move_2": 280,
+	"form": 0
+}, {
+	"pokemon_id": 274,
+	"cp": 946,
+	"weight": 31.10205078125000,
+	"size": 1.03458094596863,
+	"move_1": 238,
+	"move_2": 280,
+	"form": 0
+}, {
+	"pokemon_id": 275,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 276,
+	"cp": 643,
+	"weight": 4.82139730453491,
+	"size": 0.44447267055511,
+	"move_1": 219,
+	"move_2": 45,
+	"form": 0
+}, {
+	"pokemon_id": 277,
+	"cp": 1538,
+	"weight": 29.08395385742188,
+	"size": 0.84031528234482,
+	"move_1": 239,
+	"move_2": 256,
+	"form": 0
+}, {
+	"pokemon_id": 278,
+	"cp": 559,
+	"weight": 19.70501708984375,
+	"size": 0.83526313304901,
+	"move_1": 230,
+	"move_2": 121,
+	"form": 0
+}, {
+	"pokemon_id": 279,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 280,
+	"cp": 419,
+	"weight": 10.35430145263672,
+	"size": 0.53460448980331,
+	"move_1": 249,
+	"move_2": 84,
+	"form": 292
+}, {
+	"pokemon_id": 281,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 282,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 283,
+	"cp": 643,
+	"weight": 4.67719984054565,
+	"size": 0.70529943704605,
+	"move_1": 271,
+	"move_2": 280,
+	"form": 0
+}, {
+	"pokemon_id": 284,
+	"cp": 1751,
+	"weight": 5.20325994491577,
+	"size": 0.90313714742661,
+	"move_1": 260,
+	"move_2": 262,
+	"form": 0
+}, {
+	"pokemon_id": 285,
+	"cp": 738,
+	"weight": 10.08990669250488,
+	"size": 0.60268026590347,
+	"move_1": 271,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 286,
+	"cp": 2270,
+	"weight": 77.35179138183594,
+	"size": 1.60734426975250,
+	"move_1": 271,
+	"move_2": 246,
+	"form": 0
+}, {
+	"pokemon_id": 287,
+	"cp": 725,
+	"weight": 43.51457214355469,
+	"size": 1.02021324634552,
+	"move_1": 287,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 288,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 289,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 290,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 291,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 292,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 293,
+	"cp": 580,
+	"weight": 33.57257843017578,
+	"size": 0.84677308797836,
+	"move_1": 271,
+	"move_2": 133,
+	"form": 0
+}, {
+	"pokemon_id": 294,
+	"cp": 1155,
+	"weight": 70.28567504882812,
+	"size": 1.16569209098816,
+	"move_1": 241,
+	"move_2": 127,
+	"form": 0
+}, {
+	"pokemon_id": 295,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 296,
+	"cp": 646,
+	"weight": 168.02645874023438,
+	"size": 1.36473691463470,
+	"move_1": 241,
+	"move_2": 280,
+	"form": 0
+}, {
+	"pokemon_id": 297,
+	"cp": 1696,
+	"weight": 344.92312622070310,
+	"size": 2.58584094047546,
+	"move_1": 243,
+	"move_2": 268,
+	"form": 0
+}, {
+	"pokemon_id": 299,
+	"cp": 892,
+	"weight": 184.59143066406250,
+	"size": 1.33135902881622,
+	"move_1": 227,
+	"move_2": 259,
+	"form": 0
+}, {
+	"pokemon_id": 300,
+	"cp": 685,
+	"weight": 23.61563682556152,
+	"size": 0.82934159040451,
+	"move_1": 238,
+	"move_2": 251,
+	"form": 0
+}, {
+	"pokemon_id": 301,
+	"cp": 931,
+	"weight": 46.46670532226562,
+	"size": 1.23833620548248,
+	"move_1": 238,
+	"move_2": 88,
+	"form": 0
+}, {
+	"pokemon_id": 302,
+	"cp": 1135,
+	"weight": 20.97198295593262,
+	"size": 0.68019396066666,
+	"move_1": 238,
+	"move_2": 280,
+	"form": 0
+}, {
+	"pokemon_id": 303,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 304,
+	"cp": 1656,
+	"weight": 109.61388397216797,
+	"size": 0.54636472463608,
+	"move_1": 228,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 305,
+	"cp": 1107,
+	"weight": 142.83084106445312,
+	"size": 0.95743691921234,
+	"move_1": 266,
+	"move_2": 64,
+	"form": 0
+}, {
+	"pokemon_id": 306,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 307,
+	"cp": 559,
+	"weight": 21.58736610412598,
+	"size": 0.83446168899536,
+	"move_1": 241,
+	"move_2": 60,
+	"form": 0
+}, {
+	"pokemon_id": 308,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 309,
+	"cp": 808,
+	"weight": 30.72624778747559,
+	"size": 0.85657411813736,
+	"move_1": 271,
+	"move_2": 125,
+	"form": 0
+}, {
+	"pokemon_id": 310,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 311,
+	"cp": 1507,
+	"weight": 8.84901332855225,
+	"size": 0.56989437341690,
+	"move_1": 271,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 312,
+	"cp": 1409,
+	"weight": 9.74673748016357,
+	"size": 0.56261378526688,
+	"move_1": 219,
+	"move_2": 125,
+	"form": 0
+}, {
+	"pokemon_id": 314,
+	"cp": 1458,
+	"weight": 33.20407867431641,
+	"size": 0.82461291551590,
+	"move_1": 261,
+	"move_2": 262,
+	"form": 0
+}, {
+	"pokemon_id": 315,
+	"cp": 1724,
+	"weight": 21.35035133361816,
+	"size": 0.68662214279175,
+	"move_1": 224,
+	"move_2": 127,
+	"form": 0
+}, {
+	"pokemon_id": 316,
+	"cp": 1196,
+	"weight": 138.95259094238280,
+	"size": 1.24941504001617,
+	"move_1": 241,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 317,
+	"cp": 548,
+	"weight": 87.44801330566406,
+	"size": 1.77122235298157,
+	"move_1": 260,
+	"move_2": 303,
+	"form": 0
+}, {
+	"pokemon_id": 318,
+	"cp": 767,
+	"weight": 43.81767272949219,
+	"size": 1.12735772132874,
+	"move_1": 278,
+	"move_2": 279,
+	"form": 0
+}, {
+	"pokemon_id": 319,
+	"cp": 1581,
+	"weight": 101.66947937011719,
+	"size": 1.85721921920776,
+	"move_1": 202,
+	"move_2": 50,
+	"form": 0
+}, {
+	"pokemon_id": 320,
+	"cp": 1185,
+	"weight": 208.16030883789062,
+	"size": 2.47095823287964,
+	"move_1": 231,
+	"move_2": 268,
+	"form": 0
+}, {
+	"pokemon_id": 321,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 322,
+	"cp": 982,
+	"weight": 48.20262145996094,
+	"size": 0.97546947002411,
+	"move_1": 221,
+	"move_2": 127,
+	"form": 0
+}, {
+	"pokemon_id": 323,
+	"cp": 1851,
+	"weight": 289.98025512695310,
+	"size": 2.30832338333130,
+	"move_1": 241,
+	"move_2": 304,
+	"form": 0
+}, {
+	"pokemon_id": 324,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 325,
+	"cp": 1093,
+	"weight": 61.47323989868164,
+	"size": 0.93470031023026,
+	"move_1": 234,
+	"move_2": 276,
+	"form": 0
+}, {
+	"pokemon_id": 326,
+	"cp": 1245,
+	"weight": 81.55754089355469,
+	"size": 0.96113306283951,
+	"move_1": 274,
+	"move_2": 276,
+	"form": 0
+}, {
+	"pokemon_id": 327,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 328,
+	"cp": 1139,
+	"weight": 23.46313095092773,
+	"size": 0.87824290990829,
+	"move_1": 261,
+	"move_2": 279,
+	"form": 0
+}, {
+	"pokemon_id": 329,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 330,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 331,
+	"cp": 1153,
+	"weight": 110.91570281982422,
+	"size": 0.59444141387939,
+	"move_1": 236,
+	"move_2": 272,
+	"form": 0
+}, {
+	"pokemon_id": 332,
+	"cp": 2077,
+	"weight": 110.90081787109375,
+	"size": 1.48931717872620,
+	"move_1": 224,
+	"move_2": 272,
+	"form": 0
+}, {
+	"pokemon_id": 333,
+	"cp": 1190,
+	"weight": 176.43824768066406,
+	"size": 1.32185935974121,
+	"move_1": 263,
+	"move_2": 108,
+	"form": 0
+}, {
+	"pokemon_id": 334,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 335,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 336,
+	"cp": 1695,
+	"weight": 113.59371185302734,
+	"size": 3.66282677650452,
+	"move_1": 266,
+	"move_2": 279,
+	"form": 0
+}, {
+	"pokemon_id": 337,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 338,
+	"cp": 1762,
+	"weight": 249.91218566894530,
+	"size": 1.51310217380524,
+	"move_1": 235,
+	"move_2": 116,
+	"form": 0
+}, {
+	"pokemon_id": 339,
+	"cp": 865,
+	"weight": 30.90822219848633,
+	"size": 0.76997286081314,
+	"move_1": 230,
+	"move_2": 127,
+	"form": 0
+}, {
+	"pokemon_id": 340,
+	"cp": 1827,
+	"weight": 45.99521636962891,
+	"size": 1.28057479858398,
+	"move_1": 230,
+	"move_2": 105,
+	"form": 0
+}, {
+	"pokemon_id": 341,
+	"cp": 708,
+	"weight": 15.84686470031738,
+	"size": 0.67316526174545,
+	"move_1": 241,
+	"move_2": 57,
+	"form": 0
+}, {
+	"pokemon_id": 342,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 343,
+	"cp": 730,
+	"weight": 46.44100189208984,
+	"size": 0.74132382869720,
+	"move_1": 274,
+	"move_2": 267,
+	"form": 0
+}, {
+	"pokemon_id": 344,
+	"cp": 1230,
+	"weight": 150.38677978515625,
+	"size": 1.61037540435791,
+	"move_1": 274,
+	"move_2": 304,
+	"form": 0
+}, {
+	"pokemon_id": 345,
+	"cp": 1116,
+	"weight": 46.42419815063477,
+	"size": 1.35435736179352,
+	"move_1": 260,
+	"move_2": 276,
+	"form": 0
+}, {
+	"pokemon_id": 346,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 347,
+	"cp": 1232,
+	"weight": 22.19197845458984,
+	"size": 0.99509119987488,
+	"move_1": 261,
+	"move_2": 89,
+	"form": 0
+}, {
+	"pokemon_id": 348,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 349,
+	"cp": 154,
+	"weight": 11.12154197692871,
+	"size": 0.68321067094803,
+	"move_1": 231,
+	"move_2": 276,
+	"form": 0
+}, {
+	"pokemon_id": 351,
+	"cp": 1496,
+	"weight": 77.86742401123047,
+	"size": 0.53288072347641,
+	"move_1": 264,
+	"move_2": 294,
+	"form": 30
+}, {
+	"pokemon_id": 353,
+	"cp": 840,
+	"weight": 4.75150585174561,
+	"size": 0.83397662639618,
+	"move_1": 263,
+	"move_2": 265,
+	"form": 0
+}, {
+	"pokemon_id": 354,
+	"cp": 219,
+	"weight": 14.78286457061768,
+	"size": 1.16504836082458,
+	"move_1": 264,
+	"move_2": 78,
+	"form": 0
+}, {
+	"pokemon_id": 355,
+	"cp": 577,
+	"weight": 30.38394165039062,
+	"size": 1.14402079582214,
+	"move_1": 264,
+	"move_2": 265,
+	"form": 0
+}, {
+	"pokemon_id": 356,
+	"cp": 115,
+	"weight": 29.18475151062012,
+	"size": 1.56523621082306,
+	"move_1": 238,
+	"move_2": 67,
+	"form": 0
+}, {
+	"pokemon_id": 358,
+	"cp": 1786,
+	"weight": 1.84646463394165,
+	"size": 0.81178855895996,
+	"move_1": 274,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 359,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 360,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 361,
+	"cp": 343,
+	"weight": 27.26926612854004,
+	"size": 0.94115334749222,
+	"move_1": 244,
+	"move_2": 111,
+	"form": 0
+}, {
+	"pokemon_id": 362,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 363,
+	"cp": 772,
+	"weight": 71.80970001220703,
+	"size": 1.07203483581543,
+	"move_1": 241,
+	"move_2": 248,
+	"form": 0
+}, {
+	"pokemon_id": 364,
+	"cp": 1018,
+	"weight": 113.22029113769531,
+	"size": 1.18896043300629,
+	"move_1": 244,
+	"move_2": 248,
+	"form": 0
+}, {
+	"pokemon_id": 365,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 366,
+	"cp": 16,
+	"weight": 76.60138702392578,
+	"size": 0.47156131267548,
+	"move_1": 230,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 367,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 368,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 370,
+	"cp": 584,
+	"weight": 11.66793441772461,
+	"size": 0.71429848670959,
+	"move_1": 231,
+	"move_2": 105,
+	"form": 0
+}, {
+	"pokemon_id": 371,
+	"cp": 968,
+	"weight": 73.80964660644531,
+	"size": 0.81261473894119,
+	"move_1": 209,
+	"move_2": 279,
+	"form": 0
+}, {
+	"pokemon_id": 372,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 373,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 374,
+	"cp": 707,
+	"weight": 117.83594512939453,
+	"size": 0.69908308982849,
+	"move_1": 282,
+	"move_2": 133,
+	"form": 0
+}, {
+	"pokemon_id": 375,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 376,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 387,
+	"cp": 1095,
+	"weight": 22.29979324340820,
+	"size": 0.58672493696213,
+	"move_1": 221,
+	"move_2": 273,
+	"form": 688
+}, {
+	"pokemon_id": 388,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 389,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 390,
+	"cp": 858,
+	"weight": 14.17528343200684,
+	"size": 0.73632317781448,
+	"move_1": 220,
+	"move_2": 101,
+	"form": 0
+}, {
+	"pokemon_id": 391,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 392,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 393,
+	"cp": 842,
+	"weight": 7.76972723007202,
+	"size": 0.48177507519722,
+	"move_1": 237,
+	"move_2": 111,
+	"form": 0
+}, {
+	"pokemon_id": 394,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 395,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 396,
+	"cp": 638,
+	"weight": 4.26492881774902,
+	"size": 0.42233464121819,
+	"move_1": 221,
+	"move_2": 256,
+	"form": 0
+}, {
+	"pokemon_id": 397,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 398,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 399,
+	"cp": 646,
+	"weight": 37.20513534545898,
+	"size": 0.67237651348114,
+	"move_1": 282,
+	"move_2": 279,
+	"form": 0
+}, {
+	"pokemon_id": 400,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 401,
+	"cp": 318,
+	"weight": 4.29037714004517,
+	"size": 0.42102146148682,
+	"move_1": 261,
+	"move_2": 133,
+	"form": 0
+}, {
+	"pokemon_id": 402,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 407,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 408,
+	"cp": 1468,
+	"weight": 57.18339157104492,
+	"size": 1.19969594478607,
+	"move_1": 282,
+	"move_2": 95,
+	"form": 0
+}, {
+	"pokemon_id": 409,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 410,
+	"cp": 723,
+	"weight": 89.36372375488281,
+	"size": 0.63675022125244,
+	"move_1": 266,
+	"move_2": 268,
+	"form": 0
+}, {
+	"pokemon_id": 411,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 412,
+	"cp": 375,
+	"weight": 6.08265161514282,
+	"size": 0.26227131485939,
+	"move_1": 221,
+	"move_2": 133,
+	"form": 120
+}, {
+	"pokemon_id": 413,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 414,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 415,
+	"cp": 399,
+	"weight": 9.86925411224365,
+	"size": 0.40832397341728,
+	"move_1": 201,
+	"move_2": 49,
+	"form": 0
+}, {
+	"pokemon_id": 416,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 418,
+	"cp": 844,
+	"weight": 56.97719955444336,
+	"size": 0.94236308336258,
+	"move_1": 230,
+	"move_2": 125,
+	"form": 0
+}, {
+	"pokemon_id": 419,
+	"cp": 1909,
+	"weight": 25.60816383361816,
+	"size": 1.08762967586517,
+	"move_1": 283,
+	"move_2": 125,
+	"form": 0
+}, {
+	"pokemon_id": 420,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 421,
+	"cp": 1871,
+	"weight": 20.35081672668457,
+	"size": 0.73746114969254,
+	"move_1": 271,
+	"move_2": 116,
+	"form": 95
+}, {
+	"pokemon_id": 422,
+	"cp": 938,
+	"weight": 12.85611152648926,
+	"size": 0.43162354826927,
+	"move_1": 281,
+	"move_2": 131,
+	"form": 96
+}, {
+	"pokemon_id": 423,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 424,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 425,
+	"cp": 309,
+	"weight": 1.24829447269440,
+	"size": 0.39707717299461,
+	"move_1": 264,
+	"move_2": 70,
+	"form": 0
+}, {
+	"pokemon_id": 426,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 427,
+	"cp": 1080,
+	"weight": 21.25739097595215,
+	"size": 0.52431118488312,
+	"move_1": 235,
+	"move_2": 125,
+	"form": 0
+}, {
+	"pokemon_id": 428,
+	"cp": 1413,
+	"weight": 30.52070808410645,
+	"size": 1.16354799270630,
+	"move_1": 207,
+	"move_2": 14,
+	"form": 0
+}, {
+	"pokemon_id": 429,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 430,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 431,
+	"cp": 761,
+	"weight": 6.92590761184692,
+	"size": 0.63375449180603,
+	"move_1": 220,
+	"move_2": 88,
+	"form": 0
+}, {
+	"pokemon_id": 432,
+	"cp": 1420,
+	"weight": 61.62598800659180,
+	"size": 1.19811141490936,
+	"move_1": 220,
+	"move_2": 88,
+	"form": 0
+}, {
+	"pokemon_id": 433,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 434,
+	"cp": 852,
+	"weight": 22.41605567932129,
+	"size": 0.43838518857956,
+	"move_1": 220,
+	"move_2": 279,
+	"form": 0
+}, {
+	"pokemon_id": 435,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 436,
+	"cp": 450,
+	"weight": 92.15908050537110,
+	"size": 0.61456900835037,
+	"move_1": 235,
+	"move_2": 268,
+	"form": 0
+}, {
+	"pokemon_id": 437,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 438,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 440,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 441,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 442,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 443,
+	"cp": 846,
+	"weight": 21.41479110717773,
+	"size": 0.66718578338623,
+	"move_1": 216,
+	"move_2": 80,
+	"form": 0
+}, {
+	"pokemon_id": 444,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 445,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 447,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 448,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 449,
+	"cp": 1179,
+	"weight": 76.63044738769531,
+	"size": 0.95032131671906,
+	"move_1": 221,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 450,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 451,
+	"cp": 722,
+	"weight": 18.77593803405762,
+	"size": 1.01994955539703,
+	"move_1": 260,
+	"move_2": 90,
+	"form": 0
+}, {
+	"pokemon_id": 452,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 453,
+	"cp": 737,
+	"weight": 41.60193252563477,
+	"size": 0.86636996269226,
+	"move_1": 236,
+	"move_2": 123,
+	"form": 0
+}, {
+	"pokemon_id": 454,
+	"cp": 1925,
+	"weight": 59.75552368164062,
+	"size": 1.51479876041412,
+	"move_1": 243,
+	"move_2": 246,
+	"form": 0
+}, {
+	"pokemon_id": 456,
+	"cp": 771,
+	"weight": 11.78357601165771,
+	"size": 0.50342112779617,
+	"move_1": 230,
+	"move_2": 262,
+	"form": 0
+}, {
+	"pokemon_id": 457,
+	"cp": 1278,
+	"weight": 30.20913887023926,
+	"size": 1.19201314449310,
+	"move_1": 283,
+	"move_2": 262,
+	"form": 0
+}, {
+	"pokemon_id": 458,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 459,
+	"cp": 977,
+	"weight": 84.38729095458984,
+	"size": 1.28919494152069,
+	"move_1": 244,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 460,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 461,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 462,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 463,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 464,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 465,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 466,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 467,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 468,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 469,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 470,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 471,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 472,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 473,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 474,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 475,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 476,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 477,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 478,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 495,
+	"cp": 757,
+	"weight": 18.89179229736328,
+	"size": 0.86499649286270,
+	"move_1": 221,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 496,
+	"cp": 1276,
+	"weight": 23.49679756164551,
+	"size": 0.91042476892471,
+	"move_1": 266,
+	"move_2": 312,
+	"form": 0
+}, {
+	"pokemon_id": 497,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 498,
+	"cp": 963,
+	"weight": 17.08779144287109,
+	"size": 0.67167186737061,
+	"move_1": 221,
+	"move_2": 131,
+	"form": 0
+}, {
+	"pokemon_id": 499,
+	"cp": 1593,
+	"weight": 71.74857330322266,
+	"size": 1.10452198982239,
+	"move_1": 221,
+	"move_2": 63,
+	"form": 0
+}, {
+	"pokemon_id": 500,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 501,
+	"cp": 690,
+	"weight": 9.84661483764648,
+	"size": 0.61807519197464,
+	"move_1": 230,
+	"move_2": 105,
+	"form": 0
+}, {
+	"pokemon_id": 502,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": 0
+}, {
+	"pokemon_id": 503,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 504,
+	"cp": 1036,
+	"weight": 36.42641448974609,
+	"size": 0.79100382328033,
+	"move_1": 274,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 505,
+	"cp": 1369,
+	"weight": 37.26625061035156,
+	"size": 1.25489556789398,
+	"move_1": 207,
+	"move_2": 279,
+	"form": 0
+}, {
+	"pokemon_id": 506,
+	"cp": 1295,
+	"weight": 10.99328422546387,
+	"size": 0.58414262533188,
+	"move_1": 282,
+	"move_2": 272,
+	"form": 0
+}, {
+	"pokemon_id": 507,
+	"cp": 1325,
+	"weight": 19.87332916259766,
+	"size": 1.06791496276855,
+	"move_1": 282,
+	"move_2": 88,
+	"form": 0
+}, {
+	"pokemon_id": 508,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 509,
+	"cp": 626,
+	"weight": 21.97340774536133,
+	"size": 0.57761484384537,
+	"move_1": 282,
+	"move_2": 88,
+	"form": 0
+}, {
+	"pokemon_id": 510,
+	"cp": 1473,
+	"weight": 57.36882400512695,
+	"size": 1.36519980430603,
+	"move_1": 320,
+	"move_2": 92,
+	"form": 0
+}, {
+	"pokemon_id": 511,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 512,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 513,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 514,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 515,
+	"cp": 767,
+	"weight": 19.84866905212402,
+	"size": 0.75719445943832,
+	"move_1": 230,
+	"move_2": 284,
+	"form": 0
+}, {
+	"pokemon_id": 516,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 517,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 518,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 519,
+	"cp": 784,
+	"weight": 12.35320949554443,
+	"size": 0.57661163806915,
+	"move_1": 263,
+	"move_2": 284,
+	"form": 0
+}, {
+	"pokemon_id": 520,
+	"cp": 1229,
+	"weight": 27.33921241760254,
+	"size": 0.78983831405640,
+	"move_1": 255,
+	"move_2": 257,
+	"form": 0
+}, {
+	"pokemon_id": 521,
+	"cp": 1605,
+	"weight": 41.75805664062500,
+	"size": 1.45410537719727,
+	"move_1": 255,
+	"move_2": 257,
+	"form": 0
+}, {
+	"pokemon_id": 522,
+	"cp": 704,
+	"weight": 52.20349121093750,
+	"size": 1.06355738639832,
+	"move_1": 219,
+	"move_2": 101,
+	"form": 0
+}, {
+	"pokemon_id": 523,
+	"cp": 1331,
+	"weight": 95.51809692382812,
+	"size": 1.84495890140533,
+	"move_1": 207,
+	"move_2": 101,
+	"form": 0
+}, {
+	"pokemon_id": 524,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 525,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 526,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 527,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 528,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 529,
+	"cp": 1227,
+	"weight": 15.04918289184570,
+	"size": 0.38775560259819,
+	"move_1": 233,
+	"move_2": 63,
+	"form": 0
+}, {
+	"pokemon_id": 530,
+	"cp": 1770,
+	"weight": 48.04917907714844,
+	"size": 0.71281868219376,
+	"move_1": 233,
+	"move_2": 46,
+	"form": 0
+}, {
+	"pokemon_id": 590,
+	"cp": 885,
+	"weight": 1.97818100452423,
+	"size": 0.28875997662544,
+	"move_1": 263,
+	"move_2": 273,
+	"form": 0
+}, {
+	"pokemon_id": 591,
+	"cp": 1902,
+	"weight": 16.33022689819336,
+	"size": 0.75006365776062,
+	"move_1": 263,
+	"move_2": 280,
+	"form": 0
+}, {
+	"pokemon_id": 597,
+	"cp": 842,
+	"weight": 29.69470024108887,
+	"size": 0.75589537620544,
+	"move_1": 228,
+	"move_2": 267,
+	"form": 0
+}, {
+	"pokemon_id": 598,
+	"cp": 2049,
+	"weight": 83.97933197021484,
+	"size": 0.89402955770493,
+	"move_1": 271,
+	"move_2": 78,
+	"form": 0
+}, {
+	"pokemon_id": 599,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 600,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 601,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 607,
+	"cp": 797,
+	"weight": 4.26775550842285,
+	"size": 0.36023443937302,
+	"move_1": 209,
+	"move_2": 102,
+	"form": 0
+}, {
+	"pokemon_id": 608,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 609,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 622,
+	"cp": 1061,
+	"weight": 160.66969299316406,
+	"size": 1.21808302402496,
+	"move_1": 263,
+	"move_2": 265,
+	"form": 0
+}, {
+	"pokemon_id": 623,
+	"cp": 1873,
+	"weight": 383.19097900390625,
+	"size": 3.05198955535889,
+	"move_1": 263,
+	"move_2": 304,
+	"form": 0
+}, {
+	"pokemon_id": 631,
+	"cp": 2095,
+	"weight": 72.57901763916016,
+	"size": 1.64378595352173,
+	"move_1": 269,
+	"move_2": 319,
+	"form": 0
+}, {
+	"pokemon_id": 632,
+	"cp": null,
+	"weight": null,
+	"size": null,
+	"move_1": null,
+	"move_2": null,
+	"form": null
+}, {
+	"pokemon_id": 633,
+	"cp": 450,
+	"weight": 16.51050758361816,
+	"size": 0.85896337032318,
+	"move_1": 221,
+	"move_2": 131,
+	"form": 0
+}]
