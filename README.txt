@@ -1,8 +1,8 @@
 A bot that sends realistic pokemon data to a webhook url to test your Poracle.js bot. The bot will send a random pokemon between every 18-29 seconds, and will not stop until you kill the process.
 
 To install 
-git clone repo
-cd into repo
+git clone https://github.com/jonathonor/poracle-sender.git
+cd poracle-sender
 npm install
 node send.js
 
