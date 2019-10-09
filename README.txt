@@ -7,6 +7,7 @@ npm install
 node send.js
 
 Fill out config file with 
+- sendingTo (poracle or wdr)
 - webhook url where poracle is running
 - areas where you want the bot to send a pokemon
 
