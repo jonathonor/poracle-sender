@@ -1,4 +1,5 @@
 {
+    "sendingTo": "poracle",
     "webhookUrl": "http://localhost:3030",
     "areas": [{
         "name": "downtown",

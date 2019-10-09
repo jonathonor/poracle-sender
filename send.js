@@ -3,7 +3,7 @@ var schedule = require('node-schedule');
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 var randomLocation = require('random-location');
 
-var sorted = require('./sorted.json');
+var sorted = require('./merged.json');
 var pokemon = require('./monsters.json');
 var config = require('./config.json');
 
@@ -21,16 +21,18 @@ getNum = (min, max) => {
 }
 
 sendData = num => {
+    let pokemonToSend = getRandomPokemon();
+    let verifiedTime = Math.random() < 0.7 ? true : false;
     const areaData = getArea();
     const randomPoint = areaData.location;
     let data = {
         type: 'pokemon',
         message: {
             pokestop_id: 'None',
-            disappear_time_verified: Math.random() < 0.7 ? true : false,
+            disappear_time_verified: verifiedTime,
             weather: Math.random() < 0.5 ? 1 : 2,
             latitude: randomPoint.latitude,
-            disappear_time: Math.trunc((new Date().valueOf() / 1000) + Math.floor(Math.random() * 2400)),
+            disappear_time: verifiedTime ? Math.trunc((new Date().valueOf() / 1000) + Math.floor(Math.random() * 2400)) : Math.floor((new Date().valueOf() /1000) + 15*60),
             pokemon_level: getNum(25, 30),
             last_modified_time: Math.floor(new Date().getTime() - Math.random() * 250),
             costume: 0,
@@ -43,29 +45,33 @@ sendData = num => {
             individual_attack: getNum(12, 15),
             correlationId: 'a5fb6cea-93ee-40cd-befe-587a9aef336c',
             messageId: 'd0af1da6-148a-4b32-b7b3-133d0842fd18',
-            pokemon_id: getRandomPokemon().pokemon_id,
-            cp: getNum(1, 1794),
-            weight: Math.random() + getNum(1, 100),
-            height: Math.random() + getNum(1, 7),
-            move_1: getNum(1, 250),
-            move_2: getNum(1, 250),
+            pokemon_id: pokemonToSend.pokemon_id,
+            cp: pokemonToSend.cp ? pokemonToSend.cp+getNum(0, 349) : getNum(10, 1222),
+            weight: pokemonToSend.weight ? pokemonToSend.weight : Math.random() + getNum(1, 15),
+            height: pokemonToSend.height ? pokemonToSend.height : Math.random() + getNum(1, 7),
+            move_1: pokemonToSend.move_1.length > 0 ? pokemonToSend.move_1[getNum(0, pokemonToSend.move_1.length-1)] : getNum(1, 250),
+            move_2: pokemonToSend.move_2.length > 0 ? pokemonToSend.move_2[getNum(0, pokemonToSend.move_2.length-1)] : getNum(1, 250),
             gender: Math.random() < 0.7 ? 1 : 2,
-            form: 0,
+            form: pokemonToSend.form.length > 0 ? pokemonToSend.form[getNum(0, pokemonToSend.form.length-1)] : 0
          } 
     };
 
-    data.message = { ...data.message, ...getRandomPokemon()};
     var xhr = new XMLHttpRequest();
     xhr.open("POST", webhookUrl, true);
     xhr.setRequestHeader('Content-Type', 'application/json');
-    xhr.onreadystatechange = () => {
-        if (xhr.readyState === 4) {
-            let response = xhr.responseText;
-            console.log('After', Math.floor((num/1000)+15), 'seconds sent -', pokemon[data.message.pokemon_id].name, '-', calcIv(data.message.individual_attack, data.message.individual_defense, data.message.individual_stamina), '- to', areaData.name);
-            console.log('Got response', response);
+    if (config.sendingTo === "poracle") {
+        xhr.onreadystatechange = () => {
+            if (xhr.readyState === 4) {
+                let response = xhr.responseText;
+                console.log('After', Math.floor((num/1000)+15), 'seconds sent -', pokemon[data.message.pokemon_id].name, '-', calcIv(data.message.individual_attack, data.message.individual_defense, data.message.individual_stamina), '- to', areaData.name);
+                console.log('Got response', response);
+            }
         }
+    } else if (config.sendingTo === "wdr") {
+        console.log('After', Math.floor((num/1000)+15), 'seconds sent -', pokemon[data.message.pokemon_id].name, '-', calcIv(data.message.individual_attack, data.message.individual_defense, data.message.individual_stamina), '-', data.message.individual_attack,'/', data.message.individual_defense,'/', data.message.individual_stamina, '- to', areaData.name);
     }
-    xhr.send(JSON.stringify(data));
+
+    xhr.send(JSON.stringify([data]));
 }
 
 calcIv = (atk, def, sta) => {
@@ -77,9 +83,8 @@ calcIv = (atk, def, sta) => {
 
 getRandomPokemon = () => {
     let pokemonToSend = getNum(0, 634);
-
     let send = sorted.find(obj => parseInt(obj.pokemon_id) === pokemonToSend) || getRandomPokemon();
-    send.cp = send.cp ? send.cp + getNum(0, 349) : getNum(0, 1250);
+    
     return send;
 }
 
@@ -90,4 +95,3 @@ schedule.scheduleJob('*/15 * * * * *', () => {
         sendData(num);
     }, num)
 });
-
